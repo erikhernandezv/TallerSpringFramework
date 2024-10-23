@@ -15,7 +15,7 @@ _Evidencias Practica Hola Mundo - Rest Service._
 
 ## Autor ✒️
 
-* **Erik Darío Hernández Vásquez** - *Trabajo Inicial* - [erikhernandezv]([https://github.com/erikhernandezv](https://github.com/erikhernandezv/TallerSpringFramework/tree/main/SprignWeb))
+* **Erik Darío Hernández Vásquez** - *Trabajo Inicial* - [erikhernandezv]([https://github.com/erikhernandezv](https://github.com/erikhernandezv/TallerSpringFramework/tree/main/HelloWorld))
 
 
 ---
